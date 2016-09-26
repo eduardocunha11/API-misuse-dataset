@@ -1,5 +1,5 @@
 /**
- * Fragment Source: https://github.com/0211hk/JT/blob/master/src/main/java/org/hk/jt/client/core/Request.java
+ * Source: https://github.com/0211hk/JT/blob/master/src/main/java/org/hk/jt/client/core/Request.java
  */
 private String getSignature() throws NoSuchAlgorithmException,
 			InvalidKeyException, UnsupportedEncodingException {
